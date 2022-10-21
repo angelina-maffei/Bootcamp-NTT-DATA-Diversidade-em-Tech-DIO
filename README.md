@@ -7,4 +7,6 @@ traz uma trilha completa para você decolar em desenvolvimento front-end com HTM
 
 *Trabalhando com Formulários
 
+*Estruturando seu HTML + Formatações
+
 oferecido pela DIo.me
